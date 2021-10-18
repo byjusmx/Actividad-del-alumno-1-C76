@@ -1,2 +1,2 @@
-# ISS-Tracker-1-Boilerplate
-Student boilerplate code C76
+# RASTREADOR-EEI-1-Boilerplate
+Código Boilerplate del alumno C76
